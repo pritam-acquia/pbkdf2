@@ -1,3 +1,3 @@
 module github.com/xdg-go/pbkdf2
 
-go 1.9
+go 1.23.0
